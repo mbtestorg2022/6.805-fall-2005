@@ -5,6 +5,7 @@ description: This file contains the notes to amend section 223 of the Communicat
   Web of material that is harmful to minors, and for other purposes.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/e44dad606daef11fe60c29d4d4f75849_coatsbill.pdf
 file_type: application/pdf
+parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 resourcetype: Document
 title: coatsbill.pdf
 uid: e44dad60-6dae-f11f-e60c-29d4d4f75849

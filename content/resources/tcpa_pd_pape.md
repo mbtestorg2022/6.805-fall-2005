@@ -4,6 +4,7 @@ description: This resource includes information on trusted computing, malicious 
   and stolen hardware.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/02d7e3f6e823e9f571afebb1dfccc798_tcpa_pd_pape.pdf
 file_type: application/pdf
+parent_uid: 4cc37cd4-cf07-ae38-060e-3365a90eb3a4
 resourcetype: Document
 title: tcpa_pd_pape.pdf
 uid: 02d7e3f6-e823-e9f5-71af-ebb1dfccc798

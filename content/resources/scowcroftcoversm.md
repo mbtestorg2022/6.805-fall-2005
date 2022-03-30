@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 resourcetype: Image
 title: scowcroftcoversm.gif
 uid: c403a97f-31d7-2f62-e84e-21b0a8957958

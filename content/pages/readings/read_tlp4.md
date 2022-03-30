@@ -18,7 +18,7 @@ uid: 3ac0a6e4-b1a5-2e70-da72-d42dad9a4c86
 *   [Technical background on Cryptography](#technical)
 *   [More Information](#more)
 
-[![Sessions memo image](/courses/electrical-engineering-and-computer-science/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/readings/sessions_2_19_93.gif)]({{< baseurl >}}/resources/sessions_2_19_93)
+[{{< resource "4796b100-6505-fb27-32eb-f52739e5e69b" >}}]({{< baseurl >}}/resources/sessions_2_19_93)
 
 Transmittal Letter. (Courtesy of the [Electronic Privacy Information Center](http://www.epic.org/).)
 

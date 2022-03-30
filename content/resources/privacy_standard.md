@@ -5,6 +5,7 @@ description: This resource includes information on arguments for federal privacy
   issues with the PNS and Rules and regulations for the completion of the PNS template.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/57b689e199d1bf45de7c6fd5b163a74b_privacy_standard.pdf
 file_type: application/pdf
+parent_uid: 4cc37cd4-cf07-ae38-060e-3365a90eb3a4
 resourcetype: Document
 title: privacy_standard.pdf
 uid: 57b689e1-99d1-bf45-de7c-6fd5b163a74b

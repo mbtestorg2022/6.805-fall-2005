@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 resourcetype: Image
 title: sessions_2_19_93.gif
 uid: 4796b100-6505-fb27-32eb-f52739e5e69b

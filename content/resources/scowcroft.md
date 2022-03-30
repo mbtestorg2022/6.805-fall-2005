@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: c807d991-0c36-a7b6-1022-b5e758877384
 resourcetype: Image
 title: scowcroft.jpg
 uid: 7f95cd0a-7997-0314-e22e-571f968698b0

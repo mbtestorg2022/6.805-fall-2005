@@ -5,6 +5,7 @@ description: 'This resource includes information on the fiction of FOIA accounta
   and accountability.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/2870554b75b971a5c131ffc26b92f81b_foia.pdf
 file_type: application/pdf
+parent_uid: 4cc37cd4-cf07-ae38-060e-3365a90eb3a4
 resourcetype: Document
 title: foia.pdf
 uid: 2870554b-75b9-71a5-c131-ffc26b92f81b

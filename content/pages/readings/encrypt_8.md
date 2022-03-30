@@ -10,14 +10,14 @@ The following Top Secret memo from Brent Scowcroft to George Bush, written and t
 
 These documents were obtained in 1996 by the Electronic Privacy Information Center, under the Freedom of Information Act.
 
-![Scowcroft memorandum to Bush.](/courses/electrical-engineering-and-computer-science/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/readings/scowcroft.jpg)
+{{< resource "7f95cd0a-7997-0314-e22e-571f968698b0" >}}
 
 1991 Memorandum from Brent Scowcroft to George Bush. (Courtesy of the [Electronic Privacy Information Center](http://www.epic.org/).)
 
-![Snowcroft page 1.](/courses/electrical-engineering-and-computer-science/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/readings/scowcroft1.gif)
+{{< resource "bb5de926-deb8-3b26-b803-3be8d8803e30" >}}
 
 1991 Memorandum from Brent Scowcroft to George Bush. (Courtesy of the [Electronic Privacy Information Center](http://www.epic.org/).)
 
-![Snowcroft page 2.](/courses/electrical-engineering-and-computer-science/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/readings/scowcroft2.gif)
+{{< resource "52dd19df-25fb-8d67-301b-50bf815a164a" >}}
 
 1991 Memorandum from Brent Scowcroft to George Bush. (Courtesy of the [Electronic Privacy Information Center](http://www.epic.org/).)
